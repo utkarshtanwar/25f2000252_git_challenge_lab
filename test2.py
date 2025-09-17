@@ -1,0 +1,1 @@
+Print("hello test2.py")
