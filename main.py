@@ -1,1 +1,1 @@
-Print ("This is Python Arithmetic Calculator")
+Print ("This is Python Arithmetic Calculator for day 2")
